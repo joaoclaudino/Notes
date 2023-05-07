@@ -1,0 +1,1 @@
+C:\Users\xamarin\source\repos\Notes\Notes\Notes.csproj;x64
